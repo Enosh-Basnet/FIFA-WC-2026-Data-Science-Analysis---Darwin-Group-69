@@ -1,0 +1,145 @@
+﻿Group,Match,Date,Team,Opponent,Attempts at Goal,xG,xG per Shot,Outcome
+A,M01,2026-06-11 00:00:00,Mexico,South Africa,16,1.78,0.11125,Advanced
+A,M01,2026-06-11 00:00:00,South Africa,Mexico,3,0.1,0.03333333333333333,Advanced
+A,M02,2026-06-11 00:00:00,Korea Republic,Czechia,15,1.77,0.11800000000000001,Eliminated
+A,M02,2026-06-11 00:00:00,Czechia,Korea Republic,7,0.64,0.09142857142857143,Eliminated
+A,M25,2026-06-18 00:00:00,Czechia,South Africa,14,1.36,0.09714285714285716,Eliminated
+A,M25,2026-06-18 00:00:00,South Africa,Czechia,17,1.34,0.07882352941176471,Advanced
+A,M28,2026-06-18 00:00:00,Mexico,Korea Republic,8,0.34,0.0425,Advanced
+A,M28,2026-06-18 00:00:00,Korea Republic,Mexico,9,0.87,0.09666666666666666,Eliminated
+A,M53,2026-06-24 00:00:00,Czechia,Mexico,13,0.44,0.033846153846153845,Eliminated
+A,M53,2026-06-24 00:00:00,Mexico,Czechia,11,2.1,0.19090909090909092,Advanced
+A,M54,2026-06-24 00:00:00,South Africa,Korea Republic,13,0.89,0.06846153846153846,Advanced
+A,M54,2026-06-24 00:00:00,Korea Republic,South Africa,8,0.74,0.0925,Eliminated
+B,M03,2026-06-12 00:00:00,Canada,Bosnia and Herzegovina,13,1.49,0.11461538461538462,Advanced
+B,M03,2026-06-12 00:00:00,Bosnia and Herzegovina,Canada,8,0.76,0.095,Advanced
+B,M08,2026-06-13 00:00:00,Qatar,Switzerland,6,0.52,0.08666666666666667,Eliminated
+B,M08,2026-06-13 00:00:00,Switzerland,Qatar,26,3.14,0.12076923076923077,Advanced
+B,M26,2026-06-18 00:00:00,Switzerland,Bosnia and Herzegovina,13,1.85,0.1423076923076923,Advanced
+B,M26,2026-06-18 00:00:00,Bosnia and Herzegovina,Switzerland,5,0.3,0.06,Advanced
+B,M27,2026-06-18 00:00:00,Canada,Qatar,33,3.9,0.11818181818181818,Advanced
+B,M27,2026-06-18 00:00:00,Qatar,Canada,2,0.2,0.1,Eliminated
+B,M51,2026-06-24 00:00:00,Switzerland,Canada,6,1.68,0.27999999999999997,Advanced
+B,M51,2026-06-24 00:00:00,Canada,Switzerland,13,1.61,0.12384615384615386,Advanced
+B,M52,2026-06-24 00:00:00,Bosnia and Herzegovina,Qatar,14,0.77,0.055,Advanced
+B,M52,2026-06-24 00:00:00,Qatar,Bosnia and Herzegovina,9,1.17,0.13,Eliminated
+C,M05,2026-06-13 00:00:00,Haiti,Scotland,15,0.7,0.04666666666666666,Eliminated
+C,M05,2026-06-13 00:00:00,Scotland,Haiti,9,0.91,0.10111111111111111,Eliminated
+C,M07,2026-06-13 00:00:00,Brazil,Morocco,12,0.99,0.0825,Advanced
+C,M07,2026-06-13 00:00:00,Morocco,Brazil,14,1.33,0.095,Advanced
+C,M29,2026-06-19 00:00:00,Brazil,Haiti,7,1.42,0.20285714285714285,Advanced
+C,M29,2026-06-19 00:00:00,Haiti,Brazil,7,0.26,0.037142857142857144,Eliminated
+C,M30,2026-06-19 00:00:00,Scotland,Morocco,6,0.74,0.12333333333333334,Eliminated
+C,M30,2026-06-19 00:00:00,Morocco,Scotland,12,0.8,0.06666666666666667,Advanced
+C,M49,2026-06-24 00:00:00,Scotland,Brazil,14,0.69,0.04928571428571428,Eliminated
+C,M49,2026-06-24 00:00:00,Brazil,Scotland,21,3.78,0.18,Advanced
+C,M50,2026-06-24 00:00:00,Morocco,Haiti,22,2.12,0.09636363636363637,Advanced
+C,M50,2026-06-24 00:00:00,Haiti,Morocco,9,0.65,0.07222222222222223,Eliminated
+D,M04,2026-06-12 00:00:00,USA,Paraguay,16,1.88,0.1175,Advanced
+D,M04,2026-06-12 00:00:00,Paraguay,USA,9,0.6,0.06666666666666667,Advanced
+D,M06,2026-06-13 00:00:00,Australia,Türkiye,9,0.99,0.11,Advanced
+D,M06,2026-06-13 00:00:00,Türkiye,Australia,30,1.66,0.05533333333333333,Eliminated
+D,M31,2026-06-19 00:00:00,Türkiye,Paraguay,32,2.13,0.0665625,Eliminated
+D,M31,2026-06-19 00:00:00,Paraguay,Türkiye,7,0.36,0.05142857142857143,Advanced
+D,M32,2026-06-19 00:00:00,USA,Australia,10,1.58,0.158,Advanced
+D,M32,2026-06-19 00:00:00,Australia,USA,5,0.31,0.062,Advanced
+D,M59,2026-06-25 00:00:00,Türkiye,USA,8,1.71,0.21375,Eliminated
+D,M59,2026-06-25 00:00:00,USA,Türkiye,18,1.78,0.09888888888888889,Advanced
+D,M60,2026-06-25 00:00:00,Paraguay,Australia,7,0.29,0.041428571428571426,Advanced
+D,M60,2026-06-25 00:00:00,Australia,Paraguay,12,0.7,0.05833333333333333,Advanced
+E,M09,2026-06-14 00:00:00,Côte d'Ivoire,Ecuador,15,1.88,0.12533333333333332,Advanced
+E,M09,2026-06-14 00:00:00,Ecuador,Côte d'Ivoire,12,1.36,0.11333333333333334,Advanced
+E,M10,2026-06-14 00:00:00,Germany,Curaçao,26,4.17,0.16038461538461538,Advanced
+E,M10,2026-06-14 00:00:00,Curaçao,Germany,8,0.4,0.05,Eliminated
+E,M33,2026-06-20 00:00:00,Germany,Côte d'Ivoire,16,2.47,0.154375,Advanced
+E,M33,2026-06-20 00:00:00,Côte d'Ivoire,Germany,9,1.27,0.1411111111111111,Advanced
+E,M34,2026-06-20 00:00:00,Ecuador,Curaçao,27,2.76,0.10222222222222221,Advanced
+E,M34,2026-06-20 00:00:00,Curaçao,Ecuador,10,0.63,0.063,Eliminated
+E,M55,2026-06-25 00:00:00,Curaçao,Côte d'Ivoire,11,0.66,0.060000000000000005,Eliminated
+E,M55,2026-06-25 00:00:00,Côte d'Ivoire,Curaçao,7,0.93,0.13285714285714287,Advanced
+E,M56,2026-06-25 00:00:00,Ecuador,Germany,7,1.29,0.1842857142857143,Advanced
+E,M56,2026-06-25 00:00:00,Germany,Ecuador,11,0.74,0.06727272727272728,Advanced
+F,M11,2026-06-14 00:00:00,Netherlands,Japan,10,0.63,0.063,Advanced
+F,M11,2026-06-14 00:00:00,Japan,Netherlands,9,0.34,0.03777777777777778,Advanced
+F,M12,2026-06-14 00:00:00,Sweden,Tunisia,13,2.09,0.16076923076923075,Advanced
+F,M12,2026-06-14 00:00:00,Tunisia,Sweden,6,0.34,0.05666666666666667,Eliminated
+F,M35,2026-06-20 00:00:00,Netherlands,Sweden,10,2.25,0.225,Advanced
+F,M35,2026-06-20 00:00:00,Sweden,Netherlands,16,1.3,0.08125,Advanced
+F,M36,2026-06-20 00:00:00,Tunisia,Japan,2,0.02,0.01,Eliminated
+F,M36,2026-06-20 00:00:00,Japan,Tunisia,10,1.36,0.136,Advanced
+F,M57,2026-06-25 00:00:00,Japan,Sweden,8,1.22,0.1525,Advanced
+F,M57,2026-06-25 00:00:00,Sweden,Japan,11,0.56,0.05090909090909091,Advanced
+F,M58,2026-06-25 00:00:00,Tunisia,Netherlands,10,0.76,0.076,Eliminated
+F,M58,2026-06-25 00:00:00,Netherlands,Tunisia,20,1.79,0.0895,Advanced
+G,M16,2026-06-15,Belgium,Egypt,15,1.35,0.09000000000000001,Advanced
+G,M16,2026-06-15,Egypt,Belgium,14,1.08,0.07714285714285715,Advanced
+G,M15,2026-06-15,Iran,New Zealand,17,1.5,0.08823529411764706,Eliminated
+G,M15,2026-06-15,New Zealand,Iran,14,1.24,0.08857142857142856,Eliminated
+G,M39,2026-06-21,Belgium,Iran,23,1.79,0.07782608695652174,Advanced
+G,M39,2026-06-21,Iran,Belgium,7,0.62,0.08857142857142856,Eliminated
+G,M40,2026-06-21,New Zealand,Egypt,11,1.24,0.11272727272727273,Eliminated
+G,M40,2026-06-21,Egypt,New Zealand,19,1.87,0.09842105263157895,Advanced
+G,M63,2026-06-26,Egypt,Iran,15,0.84,0.056,Advanced
+G,M63,2026-06-26,Iran,Egypt,13,1.97,0.15153846153846154,Eliminated
+G,M64,2026-06-26,New Zealand,Belgium,6,0.34,0.05666666666666667,Eliminated
+G,M64,2026-06-26,Belgium,New Zealand,35,3.65,0.10428571428571429,Advanced
+H,M14,2026-06-15,Spain,Cape Verde,27,2.1,0.07777777777777778,Advanced
+H,M14,2026-06-15,Cape Verde,Spain,6,0.2,0.03333333333333333,Advanced
+H,M13,2026-06-15,Saudi Arabia,Uruguay,7,0.66,0.09428571428571429,Eliminated
+H,M13,2026-06-15,Uruguay,Saudi Arabia,27,1.72,0.0637037037037037,Eliminated
+H,M38,2026-06-21,Spain,Saudi Arabia,22,2.85,0.12954545454545455,Advanced
+H,M38,2026-06-21,Saudi Arabia,Spain,3,0.14,0.04666666666666667,Eliminated
+H,M37,2026-06-21,Uruguay,Cape Verde,17,2.32,0.13647058823529412,Eliminated
+H,M37,2026-06-21,Cape Verde,Uruguay,12,0.88,0.07333333333333333,Advanced
+H,M65,2026-06-26,Cape Verde,Saudi Arabia,15,1.39,0.09266666666666666,Advanced
+H,M65,2026-06-26,Saudi Arabia,Cape Verde,7,0.39,0.055714285714285716,Eliminated
+H,M66,2026-06-26,Uruguay,Spain,5,0.2,0.04,Eliminated
+H,M66,2026-06-26,Spain,Uruguay,6,0.86,0.14333333333333334,Advanced
+I,M17,2026-06-16,France,Senegal,11,1.79,0.16272727272727272,Advanced
+I,M17,2026-06-16,Senegal,France,6,0.53,0.08833333333333333,Advanced
+I,M18,2026-06-16,Iraq,Norway,11,0.8,0.07272727272727274,Eliminated
+I,M18,2026-06-16,Norway,Iraq,12,2.52,0.21,Advanced
+I,M41,2026-06-22,Norway,Senegal,13,2.2,0.16923076923076924,Advanced
+I,M41,2026-06-22,Senegal,Norway,16,1.72,0.1075,Advanced
+I,M42,2026-06-22,France,Iraq,19,2.67,0.1405263157894737,Advanced
+I,M42,2026-06-22,Iraq,France,4,0.63,0.1575,Eliminated
+I,M61,2026-06-26,Norway,France,10,1.7,0.16999999999999998,Advanced
+I,M61,2026-06-26,France,Norway,18,1.5,0.08333333333333333,Advanced
+I,M62,2026-06-26,Senegal,Iraq,28,3.01,0.1075,Advanced
+I,M62,2026-06-26,Iraq,Senegal,6,0.14,0.023333333333333334,Eliminated
+J,19,,Argentina,Algeria,10,1.26,0.126,Advanced
+J,19,,Algeria,Argentina,7,0.32,0.045714285714285714,Advanced
+J,20,,Austria,Jordan,10,1.66,0.16599999999999998,Advanced
+J,20,,Jordan,Austria,11,0.53,0.04818181818181819,Eliminated
+K,21,,Portugal,Congo DR,7,0.65,0.09285714285714286,Advanced
+K,21,,Congo DR,Portugal,8,0.87,0.10875,Advanced
+L,22,,England,Croatia,22,3.2,0.14545454545454548,Advanced
+L,22,,Croatia,England,10,0.7,0.06999999999999999,Advanced
+L,23,,Ghana,Panama,7,1.31,0.18714285714285714,Advanced
+L,23,,Panama,Ghana,11,0.73,0.06636363636363636,Eliminated
+K,24,,Uzbekistan,Colombia,8,1.16,0.145,Eliminated
+K,24,,Colombia,Uzbekistan,15,1.61,0.10733333333333334,Advanced
+J,43,,Argentina,Austria,12,2.36,0.19666666666666666,Advanced
+J,43,,Austria,Argentina,6,0.53,0.08833333333333333,Advanced
+J,44,,Jordan,Algeria,6,0.63,0.105,Eliminated
+J,44,,Algeria,Jordan,18,1.89,0.105,Advanced
+K,45,,Portugal,Uzbekistan,18,2.61,0.145,Advanced
+K,45,,Uzbekistan,Portugal,5,0.24,0.048,Eliminated
+K,46,,Colombia,Congo DR,14,0.98,0.06999999999999999,Advanced
+K,46,,Congo DR,Colombia,8,0.37,0.04625,Advanced
+L,47,,England,Ghana,11,1.36,0.12363636363636364,Advanced
+L,47,,Ghana,England,9,0.17,0.01888888888888889,Advanced
+L,48,,Panama,Croatia,7,0.55,0.07857142857142858,Eliminated
+L,48,,Croatia,Panama,15,1.65,0.11,Advanced
+J,67,,Jordan,Argentina,5,0.76,0.152,Eliminated
+J,67,,Argentina,Jordan,12,2.13,0.1775,Advanced
+J,68,,Algeria,Austria,12,1.67,0.13916666666666666,Advanced
+J,68,,Austria,Algeria,10,2.13,0.213,Advanced
+K,69,,Colombia,Portugal,24,1.7,0.07083333333333333,Advanced
+K,69,,Portugal,Colombia,13,0.93,0.07153846153846154,Advanced
+K,70,,Congo DR,Uzbekistan,19,2.18,0.11473684210526316,Advanced
+K,70,,Uzbekistan,Congo DR,3,0.2,0.06666666666666667,Eliminated
+L,71,,Panama,England,13,0.58,0.04461538461538461,Eliminated
+L,71,,England,Panama,17,1.49,0.08764705882352941,Advanced
+L,72,,Croatia,Ghana,8,0.42,0.0525,Advanced
+L,72,,Ghana,Croatia,6,0.74,0.12333333333333334,Advanced
