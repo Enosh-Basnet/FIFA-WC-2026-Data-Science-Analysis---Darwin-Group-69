@@ -1,0 +1,145 @@
+match_id,team_id,team_name,group_letter,Advanced,fouls
+1,1,Mexico,A,Yes,11
+1,2,South Africa,A,Yes,15
+2,3,South Korea,A,No,10
+2,4,Czechia,A,No,13
+3,5,Canada,B,Yes,12
+3,6,Bosnia and Herzegovina,B,Yes,15
+4,13,USA,D,Yes,13
+4,14,Paraguay,D,Yes,17
+5,7,Qatar,B,No,12
+5,8,Switzerland,B,Yes,11
+6,9,Brazil,C,Yes,16
+6,10,Morocco,C,Yes,14
+7,11,Haiti,C,No,12
+7,12,Scotland,C,No,10
+8,15,Australia,D,Yes,12
+8,16,T√ºrkiye,D,No,4
+9,17,Germany,E,Yes,10
+9,18,Cura√ßao,E,No,12
+10,21,Netherlands,F,Yes,7
+10,22,Japan,F,Yes,7
+11,19,C√¥te d'Ivoire,E,Yes,12
+11,20,Ecuador,E,Yes,14
+12,23,Sweden,F,Yes,10
+12,24,Tunisia,F,No,8
+13,29,Spain,H,Yes,10
+13,30,Cabo Verde,H,Yes,1
+14,25,Belgium,G,Yes,15
+14,26,Egypt,G,Yes,15
+15,31,Saudi Arabia,H,No,11
+15,32,Uruguay,H,No,6
+16,27,IR Iran,G,No,10
+16,28,New Zealand,G,No,8
+17,33,France,I,Yes,5
+17,34,Senegal,I,Yes,9
+18,35,Iraq,I,No,12
+18,36,Norway,I,Yes,13
+19,37,Argentina,J,Yes,13
+19,38,Algeria,J,Yes,8
+20,39,Austria,J,Yes,12
+20,40,Jordan,J,No,7
+21,41,Portugal,K,Yes,9
+21,42,Congo DR,K,Yes,10
+22,45,England,L,Yes,10
+22,46,Croatia,L,Yes,12
+23,47,Ghana,L,Yes,9
+23,48,Panama,L,No,11
+24,43,Uzbekistan,K,No,14
+24,44,Colombia,K,Yes,11
+25,1,Mexico,A,Yes,9
+25,3,South Korea,A,No,7
+26,4,Czechia,A,No,12
+26,2,South Africa,A,Yes,10
+27,5,Canada,B,Yes,9
+27,7,Qatar,B,No,10
+28,8,Switzerland,B,Yes,7
+28,6,Bosnia and Herzegovina,B,Yes,17
+29,9,Brazil,C,Yes,10
+29,11,Haiti,C,No,12
+30,12,Scotland,C,No,12
+30,10,Morocco,C,Yes,10
+31,13,USA,D,Yes,12
+31,15,Australia,D,Yes,16
+32,16,T√ºrkiye,D,No,14
+32,14,Paraguay,D,Yes,15
+33,17,Germany,E,Yes,7
+33,19,C√¥te d'Ivoire,E,Yes,8
+34,20,Ecuador,E,Yes,12
+34,18,Cura√ßao,E,No,14
+35,21,Netherlands,F,Yes,11
+35,23,Sweden,F,Yes,14
+36,24,Tunisia,F,No,8
+36,22,Japan,F,Yes,15
+37,25,Belgium,G,Yes,7
+37,27,IR Iran,G,No,9
+38,28,New Zealand,G,No,14
+38,26,Egypt,G,Yes,8
+39,29,Spain,H,Yes,6
+39,31,Saudi Arabia,H,No,10
+40,32,Uruguay,H,No,11
+40,30,Cabo Verde,H,Yes,4
+41,33,France,I,Yes,8
+41,35,Iraq,I,No,4
+42,36,Norway,I,Yes,13
+42,34,Senegal,I,Yes,5
+43,37,Argentina,J,Yes,13
+43,39,Austria,J,Yes,13
+44,40,Jordan,J,No,12
+44,38,Algeria,J,Yes,9
+45,41,Portugal,K,Yes,10
+45,43,Uzbekistan,K,No,12
+46,44,Colombia,K,Yes,11
+46,42,Congo DR,K,Yes,14
+47,45,England,L,Yes,8
+47,47,Ghana,L,Yes,12
+48,48,Panama,L,No,14
+48,46,Croatia,L,Yes,10
+49,4,Czechia,A,No,9
+49,1,Mexico,A,Yes,13
+50,2,South Africa,A,Yes,12
+50,3,South Korea,A,No,9
+51,8,Switzerland,B,Yes,15
+51,5,Canada,B,Yes,10
+52,6,Bosnia and Herzegovina,B,Yes,9
+52,7,Qatar,B,No,14
+53,12,Scotland,C,No,12
+53,9,Brazil,C,Yes,8
+54,10,Morocco,C,Yes,10
+54,11,Haiti,C,No,14
+55,16,T√ºrkiye,D,No,11
+55,13,USA,D,Yes,9
+56,14,Paraguay,D,Yes,9
+56,15,Australia,D,Yes,6
+57,20,Ecuador,E,Yes,13
+57,17,Germany,E,Yes,10
+58,18,Cura√ßao,E,No,14
+58,19,C√¥te d'Ivoire,E,Yes,11
+59,24,Tunisia,F,No,12
+59,21,Netherlands,F,Yes,9
+60,22,Japan,F,Yes,9
+60,23,Sweden,F,Yes,12
+61,28,New Zealand,G,No,10
+61,25,Belgium,G,Yes,7
+62,26,Egypt,G,Yes,12
+62,27,IR Iran,G,No,11
+63,32,Uruguay,H,No,13
+63,29,Spain,H,Yes,9
+64,30,Cabo Verde,H,Yes,10
+64,31,Saudi Arabia,H,No,16
+65,36,Norway,I,Yes,8
+65,33,France,I,Yes,7
+66,34,Senegal,I,Yes,10
+66,35,Iraq,I,No,11
+67,40,Jordan,J,No,13
+67,37,Argentina,J,Yes,7
+68,38,Algeria,J,Yes,3
+68,39,Austria,J,Yes,7
+69,44,Colombia,K,Yes,12
+69,41,Portugal,K,Yes,6
+70,42,Congo DR,K,Yes,6
+70,43,Uzbekistan,K,No,16
+71,48,Panama,L,No,16
+71,45,England,L,Yes,13
+72,46,Croatia,L,Yes,9
+72,47,Ghana,L,Yes,13
